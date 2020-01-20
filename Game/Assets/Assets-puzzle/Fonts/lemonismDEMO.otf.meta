@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 744026375fa2f5c44b83791e33ba219d
+timeCreated: 1529091163
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lemonism DEMO
+  fontNames:
+  - Lemonism DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
